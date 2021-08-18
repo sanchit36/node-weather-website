@@ -31,10 +31,13 @@ h1 {
   margin-bottom: 16px;
 }
 
-header a {
+a {
   color: #888888;
-  margin-right: 16px;
   text-decoration: none;
+}
+
+header a {
+  margin-right: 16px;
 }
 
 .portrait {
